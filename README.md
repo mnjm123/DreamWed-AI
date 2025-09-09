@@ -51,9 +51,7 @@ Wedding planning is often overwhelming and expensive. DreamWed AI helps:
 ---
 
 ## ⚠️ Note  
-The **full implementation repo is private** to protect API keys and course-related material.  
-This showcase highlights the concept, architecture, and safe-to-share snippets.  
-👉 Demo or private repo access available upon request.  
+The **full implementation repo is private** to protect API keys and bizz plan.  
 
 ---
 
