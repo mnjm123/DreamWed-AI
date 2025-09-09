@@ -21,8 +21,9 @@ It creates **personalized wedding budgets, venue suggestions, and recommendation
 
 ---
 
-## 📸 Screenshots / Demo  
-> _(Add screenshots or GIFs here – e.g., sample budget table, venue cards, or AI-generated notes)_  
+## 📸 Demo  
+[![Watch Demo](assets/demo)]([https://www.loom.com/share/your-demo-link](https://marienicolejm.com/ai-projects))  
+*Click above to watch a short video demo on my portfolio*   
 
 ---
 
